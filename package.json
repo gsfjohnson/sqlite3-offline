@@ -1,6 +1,7 @@
 {
-  "name": "sqlite3-offline",
-  "version": "4.3.1",
+  "name": "@gsfjohnson/sqlite3-offline",
+  "repository": "github:gsfjohnson/netman",
+  "version": "4.3.2",
   "description": "Bundled SQLite3 library for offline environments",
   "main": "index.js",
   "types": "index.d.ts",
@@ -31,5 +32,8 @@
     "lerna": "^3.20.2",
     "standard": "^14.3.1",
     "tape": "^4.13.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/gsfjohnson"
   }
 }
