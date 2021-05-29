@@ -1,6 +1,6 @@
 {
   "name": "@gsfjohnson/sqlite3-offline",
-  "repository": "github:gsfjohnson/netman",
+  "repository": "github:gsfjohnson/sqlite3-offline",
   "version": "4.3.2",
   "description": "Bundled SQLite3 library for offline environments",
   "main": "index.js",
